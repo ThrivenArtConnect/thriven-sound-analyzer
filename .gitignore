@@ -4,3 +4,11 @@ exports/
 br864_ready/
 .DS_Store
 .env
+
+# Audio
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.aiff
+*.m4a
